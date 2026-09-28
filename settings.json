@@ -9,13 +9,16 @@
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
     "editor.fontSize": 13.5,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Dracula Theme",
+    "workbench.colorTheme": "Min Dark",
     "workbench.editorAssociations": {
         "*.txt": "default",
         "*.bin": "default"
-    }
+    },
+    "files.autoSave": "afterDelay",
+    "vscord.app.name": "Visual Studio Code",
+    "workbench.statusBar.visible": false,
+    "chat.disableAIFeatures": true
 }
